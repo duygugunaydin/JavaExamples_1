@@ -30,7 +30,5 @@ public class deneme2 {
 
         System.out.println(isim);
         System.out.println(ters);
-
-
     }
 }

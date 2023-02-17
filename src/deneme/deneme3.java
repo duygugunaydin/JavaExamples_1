@@ -6,8 +6,6 @@ public class deneme3 {
 
     }
 
-
-
     public static String findLongestPalindromeInternal(String word) {
         String longestPalindrome;
 
